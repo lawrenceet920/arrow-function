@@ -46,7 +46,7 @@ function fun2() {
 // Function 3
 
 function fun3() {
-    squares = (number = '4') => number * number;
+    squares = (number = 4) => number * number;
 
     num = prompt("QUICK PICK A NUMBER!!1!1!!");
     
